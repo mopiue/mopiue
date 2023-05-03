@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/123871595/235911119-d73d7467-ab47-4b13-89bb-7cb04ab1f029.svg"></img>
+<img src="https://user-images.githubusercontent.com/123871595/235912405-d5515ab6-fc97-491f-a36f-01d5895d5fa3.svg"></img>
 
 # About 
 I live in Russia, not far from Moscow in the city of Nizhny Novgorod. I am 26 years old. I have not been in the web industry for a long time, but I am quickly getting involved. Except for development there is nothing in my life that gives me more pleasure, so I want to spend the rest of my life with it.

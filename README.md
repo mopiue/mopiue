@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/123871595/235873605-475cfc66-f100-4a39-acda-8d785fe99c36.svg"></img>
+<img src="https://user-images.githubusercontent.com/123871595/235906159-b24bb32b-5b8e-4bf3-84d3-5d11ab735c69.svg"></img>
 
 <p align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></p>
 

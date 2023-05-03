@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/123871595/235873605-475cfc66-f100-4a39-acda-8d785fe99c36.svg"></img>
 
-<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></p>
 
 # About 
 I live in Russia, not far from Moscow in the city of Nizhny Novgorod. I am 26 years old. I have not been in the web industry for a long time, but I am quickly getting involved. Except for development there is nothing in my life that gives me more pleasure, so I want to spend the rest of my life with it.
@@ -15,20 +15,3 @@ I live in Russia, not far from Moscow in the city of Nizhny Novgorod. I am 26 ye
 > <img src="https://user-images.githubusercontent.com/123871595/235893628-ab504cf5-f683-4609-844e-f0fa87bc215d.svg" height="20" />  Gmail - iamnucassi@gmail.com
 
 > <img src="https://user-images.githubusercontent.com/123871595/235893633-d6b9168c-278d-4de1-8e58-30df2f468544.svg" height="20" /> Telegram - [Link](https://t.me/artham0n "Link")
-
-
-
-<!--
-**mopiue/mopiue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

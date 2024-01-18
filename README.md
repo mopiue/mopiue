@@ -1,7 +1,9 @@
 <img src="https://user-images.githubusercontent.com/123871595/235912405-d5515ab6-fc97-491f-a36f-01d5895d5fa3.svg"></img>
 
 # About 
-I live in Russia, not far from Moscow in the city of Nizhny Novgorod. I am 26 years old. I have not been in the web industry for a long time, but I am quickly getting involved. Except for development there is nothing in my life that gives me more pleasure, so I want to spend the rest of my life with it.
+Я живу в России, недалеко от Москвы, в городе Нижний Новгород. Мне 26 лет. Я не так давно в веб разработке, но быстро втягиваюсь. Помимо развития, в моей жизни нет такого дела, которое доставляло бы мне больше удовольствия, поэтому я стараюсь уделять этому все свое свободное время и я точно знаю, что не зря.
+
+I live in Russia, not far from Moscow, in the city of Nizhny Novgorod. I am 26 years old. I'm not so long in web development, but I'm quickly getting involved. Besides development, there is no other thing in my life that would give me more pleasure, so I try to devote all my free time to it and I know for sure that it is not in vain.
 
 
 # My technologies & tools
